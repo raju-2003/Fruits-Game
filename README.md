@@ -16,8 +16,6 @@ This interactive web game challenges players to slice falling fruits with their 
 - **index.html:** HTML file containing the game interface.
 - **styling.css:** CSS file for styling the game elements.
 - **jquery.js:** JavaScript file handling game logic and interactivity.
-- **audio/slicefruit.mp3:** Audio file for the slicing sound effect.
-- **audio/slicefruit.ogg:** Alternative audio file for compatibility.
 
 ### Technologies Used:
 
@@ -34,13 +32,6 @@ This interactive web game challenges players to slice falling fruits with their 
 4. You have limited chances to play, indicated by hearts.
 5. The game ends when all chances are used up.
 6. Click "Reset Game" to start a new session.
-
-### Development:
-
-- **Dependencies:** jQuery, jQuery UI
-- **Audio Credits:** [Your Audio Source]
-- **Images:** Custom fruit images used in the game.
-- **Developed by:** [Your Name or Team]
 
 **Credits:**
 This code was created by Raj Narayanan
